@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2d8b699e1b06409d5409ee1c1e063863/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/42d4580749d881be4bda535539627a85/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5139beb06ada3a3d8022ede78661b135/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.9/90a1d1effa99070aa6325918f05dd2bad1704b/parceler-api-1.1.9.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0090a1d1effa99070aa6325918f05dd2bad1704b">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/8225840029a0cbc723c38c523da44315/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="414c5172d9739a35339700d133288418059e7d83">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d36a9ca262353afe525fbb114bfe1940/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34788b9408b424605f599ddb5fc658d7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/4cfd6f3b1ea7f3e3f02e30eb64457096/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b723383fcc5c9e6d233f12cf3670c153dcb9f72">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/9d18a343a9af91cdb04133d943f1363d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0772eec11be9e3803736882ae4bec4078986910e">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/735c1a1443507c72f73b95f388883641/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/ff0fd565977e130dd5f3ab21c1d067b3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="05e8375b2ec26e4508b2a745d5a0623ba95f9b49">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6b85da9fb92d3b86fa830ff2e0afa1b3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/56053864196092f11e930e976996cc46/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6e298050186ec15839d09dfbc3853159/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1e7f044541495b4751d988f13878f210/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08d10ad80d254a1b3b59fdc6ab831f4d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/197c34fb38929bb6bc2881ff2f4b4682/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/effe31a7f597c2c5c3e61d4e3c302157/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0c5c9aafaa55242e4d68c52a33e0e500/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/ff0fd565977e130dd5f3ab21c1d067b3/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2d8b699e1b06409d5409ee1c1e063863/AndroidManifest.xml:2:1-11:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/8225840029a0cbc723c38c523da44315/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/197c34fb38929bb6bc2881ff2f4b4682/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d36a9ca262353afe525fbb114bfe1940/AndroidManifest.xml:17:1-31:12
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/9d18a343a9af91cdb04133d943f1363d/AndroidManifest.xml:2:1-16:12
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/4cfd6f3b1ea7f3e3f02e30eb64457096/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5139beb06ada3a3d8022ede78661b135/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6b85da9fb92d3b86fa830ff2e0afa1b3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/effe31a7f597c2c5c3e61d4e3c302157/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6e298050186ec15839d09dfbc3853159/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1e7f044541495b4751d988f13878f210/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/42d4580749d881be4bda535539627a85/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34788b9408b424605f599ddb5fc658d7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/735c1a1443507c72f73b95f388883641/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0c5c9aafaa55242e4d68c52a33e0e500/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/56053864196092f11e930e976996cc46/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08d10ad80d254a1b3b59fdc6ab831f4d/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:7:22-65
+application
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:9:5-39:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/ff0fd565977e130dd5f3ab21c1d067b3/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/ff0fd565977e130dd5f3ab21c1d067b3/AndroidManifest.xml:13:5-14:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2d8b699e1b06409d5409ee1c1e063863/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2d8b699e1b06409d5409ee1c1e063863/AndroidManifest.xml:9:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/8225840029a0cbc723c38c523da44315/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/8225840029a0cbc723c38c523da44315/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/197c34fb38929bb6bc2881ff2f4b4682/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/197c34fb38929bb6bc2881ff2f4b4682/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d36a9ca262353afe525fbb114bfe1940/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d36a9ca262353afe525fbb114bfe1940/AndroidManifest.xml:25:5-29:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/9d18a343a9af91cdb04133d943f1363d/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/9d18a343a9af91cdb04133d943f1363d/AndroidManifest.xml:13:5-14:19
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/4cfd6f3b1ea7f3e3f02e30eb64457096/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/4cfd6f3b1ea7f3e3f02e30eb64457096/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5139beb06ada3a3d8022ede78661b135/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5139beb06ada3a3d8022ede78661b135/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6b85da9fb92d3b86fa830ff2e0afa1b3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6b85da9fb92d3b86fa830ff2e0afa1b3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/effe31a7f597c2c5c3e61d4e3c302157/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/effe31a7f597c2c5c3e61d4e3c302157/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6e298050186ec15839d09dfbc3853159/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6e298050186ec15839d09dfbc3853159/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1e7f044541495b4751d988f13878f210/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1e7f044541495b4751d988f13878f210/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/42d4580749d881be4bda535539627a85/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/42d4580749d881be4bda535539627a85/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34788b9408b424605f599ddb5fc658d7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34788b9408b424605f599ddb5fc658d7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/735c1a1443507c72f73b95f388883641/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/735c1a1443507c72f73b95f388883641/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0c5c9aafaa55242e4d68c52a33e0e500/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0c5c9aafaa55242e4d68c52a33e0e500/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/56053864196092f11e930e976996cc46/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/56053864196092f11e930e976996cc46/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08d10ad80d254a1b3b59fdc6ab831f4d/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08d10ad80d254a1b3b59fdc6ab831f4d/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:10:9-50
+activity#artofliving.org.ashramsecurity.activities.LoginActivity
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:17:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:22:27-74
+activity#artofliving.org.ashramsecurity.activities.HomeActivity
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:25:9-29:59
+	android:screenOrientation
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:26:13-52
+activity#artofliving.org.ashramsecurity.activities.ScannerActivity
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:30:9-34:59
+	android:screenOrientation
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:32:13-45
+	android:theme
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:31:13-55
+activity#artofliving.org.ashramsecurity.activities.SelectCheckpointActivity
+ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:35:9-38:52
+	android:screenOrientation
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml:36:13-64
+uses-sdk
+INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/ff0fd565977e130dd5f3ab21c1d067b3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/ff0fd565977e130dd5f3ab21c1d067b3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2d8b699e1b06409d5409ee1c1e063863/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2d8b699e1b06409d5409ee1c1e063863/AndroidManifest.xml:5:5-7:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/8225840029a0cbc723c38c523da44315/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/8225840029a0cbc723c38c523da44315/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/197c34fb38929bb6bc2881ff2f4b4682/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/197c34fb38929bb6bc2881ff2f4b4682/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d36a9ca262353afe525fbb114bfe1940/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d36a9ca262353afe525fbb114bfe1940/AndroidManifest.xml:21:5-23:78
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/9d18a343a9af91cdb04133d943f1363d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/9d18a343a9af91cdb04133d943f1363d/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/4cfd6f3b1ea7f3e3f02e30eb64457096/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/4cfd6f3b1ea7f3e3f02e30eb64457096/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5139beb06ada3a3d8022ede78661b135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5139beb06ada3a3d8022ede78661b135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6b85da9fb92d3b86fa830ff2e0afa1b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6b85da9fb92d3b86fa830ff2e0afa1b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/effe31a7f597c2c5c3e61d4e3c302157/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/effe31a7f597c2c5c3e61d4e3c302157/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6e298050186ec15839d09dfbc3853159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6e298050186ec15839d09dfbc3853159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1e7f044541495b4751d988f13878f210/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1e7f044541495b4751d988f13878f210/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/42d4580749d881be4bda535539627a85/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/42d4580749d881be4bda535539627a85/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34788b9408b424605f599ddb5fc658d7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34788b9408b424605f599ddb5fc658d7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/735c1a1443507c72f73b95f388883641/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/735c1a1443507c72f73b95f388883641/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0c5c9aafaa55242e4d68c52a33e0e500/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0c5c9aafaa55242e4d68c52a33e0e500/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/56053864196092f11e930e976996cc46/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/56053864196092f11e930e976996cc46/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08d10ad80d254a1b3b59fdc6ab831f4d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08d10ad80d254a1b3b59fdc6ab831f4d/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/197c34fb38929bb6bc2881ff2f4b4682/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakmajithia/Documents/work/barcode-scanner-android/AshramSecurity/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/ff0fd565977e130dd5f3ab21c1d067b3/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/9d18a343a9af91cdb04133d943f1363d/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/9d18a343a9af91cdb04133d943f1363d/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/ff0fd565977e130dd5f3ab21c1d067b3/AndroidManifest.xml:11:22-64
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/197c34fb38929bb6bc2881ff2f4b4682/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d36a9ca262353afe525fbb114bfe1940/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d36a9ca262353afe525fbb114bfe1940/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5139beb06ada3a3d8022ede78661b135/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5139beb06ada3a3d8022ede78661b135/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6b85da9fb92d3b86fa830ff2e0afa1b3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6b85da9fb92d3b86fa830ff2e0afa1b3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/effe31a7f597c2c5c3e61d4e3c302157/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/effe31a7f597c2c5c3e61d4e3c302157/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6e298050186ec15839d09dfbc3853159/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6e298050186ec15839d09dfbc3853159/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1e7f044541495b4751d988f13878f210/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1e7f044541495b4751d988f13878f210/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/42d4580749d881be4bda535539627a85/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/42d4580749d881be4bda535539627a85/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34788b9408b424605f599ddb5fc658d7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/34788b9408b424605f599ddb5fc658d7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/735c1a1443507c72f73b95f388883641/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/735c1a1443507c72f73b95f388883641/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0c5c9aafaa55242e4d68c52a33e0e500/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0c5c9aafaa55242e4d68c52a33e0e500/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/56053864196092f11e930e976996cc46/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/56053864196092f11e930e976996cc46/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/197c34fb38929bb6bc2881ff2f4b4682/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/197c34fb38929bb6bc2881ff2f4b4682/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08d10ad80d254a1b3b59fdc6ab831f4d/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08d10ad80d254a1b3b59fdc6ab831f4d/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08d10ad80d254a1b3b59fdc6ab831f4d/AndroidManifest.xml:26:13-58

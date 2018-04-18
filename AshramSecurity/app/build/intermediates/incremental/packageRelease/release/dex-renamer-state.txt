@@ -1,0 +1,4 @@
+#Sat Mar 17 00:55:49 CDT 2018
+base.0=/Users/sarthakmajithia/Documents/work/AshramSecurity/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
